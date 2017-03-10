@@ -1,0 +1,35 @@
+{
+  "name": "electron-mvc",
+  "version": "0.0.1",
+  "description": "MVC framework for Electron",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Echopraxium/electron-mvc.git"
+  },
+  "keywords": [
+    "electron",
+    "mvc",
+    "model-view-controller",
+    "plugins",
+    "menubar",
+    "command",
+    "undoredo",
+    "Command",
+    "Pattern",
+    "interface",
+    "class"
+  ],
+  "author": "Michel Kern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Echopraxium/electron-mvc/issues"
+  },
+  "homepage": "https://github.com/Echopraxium/electron-mvc#readme",
+  "dependencies": {
+    "design-patterns-api": "0.0.15"
+  }
+}
