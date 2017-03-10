@@ -1,6 +1,6 @@
 {
   "name": "electron-mvc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MVC framework for Electron",
   "main": "test.js",
   "scripts": {
