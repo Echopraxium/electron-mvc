@@ -35,9 +35,9 @@ CommandFactory.create
 ```
 
 ## References
-* What is MVC? Model View Controller
+* What is MVC? Model View Controller  
   https://www.youtube.com/watch?v=qXRcVhWxuaU
-* What is programming MVC? [Detailed Explanation]
+* What is programming MVC? [Detailed Explanation]  
   https://www.youtube.com/watch?v=1IsL6g2ixak
 * _Elements of Reusable Object-Oriented Software_    
   Gamma, Erich; Helm, Richard; Johnson, Ralph; Vlissides, John
